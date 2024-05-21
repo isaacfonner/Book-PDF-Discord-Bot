@@ -1,12 +1,11 @@
-# Python Discord Bot
+# Python Free Books Discord Bot
 
-This is a starting point for making your own Discord bot using Python and the [discordpy](https://discordpy.readthedocs.io/) library.
-Read [their getting-started guides](https://discordpy.readthedocs.io/en/stable/#getting-started) to get the most out of this template.
+This is a book made in python to grab and send free books using discords api and libgens api. to use it, simply run $book bookname, and it will respond with a pdf
 
 ## Getting Started
 
 To get set up, you'll need to follow [these bot account setup instructions](https://discordpy.readthedocs.io/en/stable/discord.html),
-and then copy the token for your bot and added it as a secret with the key of `TOKEN` in the "Secrets (Environment variables)" panel.
+and then copy the token for your bot and replace "TOKEN" with your bot token
 
 ## FAQ
 
